@@ -1,3 +1,3 @@
-# Alura-Study
+# Study
 
-Esse é meu portfolio inicial sobre meus estudos na Alura.
+Esse é meu portfolio inicial sobre meus estudos de HTML, CSS e Javascript.
