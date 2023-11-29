@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Este projeto visa um cartão de visitas online.
+Este projeto visa um site de apresentação para meu portfolio pessoal.
 
 ---
 
