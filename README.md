@@ -11,10 +11,6 @@ Projeto criado com base nos estudos da ONE em parceria com a Alura <br/>
 
 <br>
 
-<p align="center">
-  <img alt="projeto Links Tree" src=".github/preview.png" width="100%">
-</p>
-
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
