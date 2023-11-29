@@ -1,15 +1,13 @@
 <h1 align="center"> LinkMain </h1>
 
 <p align="center">
-Projeto criado com base nos estudos da ONE em parceria com a Alura <br/>
+Projeto criado com base nos estudos da ONE em parceria com a Alura <br> <br>
 <a href="https://cursos.alura.com.br">Estude com a Alura por aqui.</a>
 </p>
 
 <p align="center">
   <img alt="Demo" src="Demo.png">
 </p>
-
-<br>
 
 ## Tecnologias
 
