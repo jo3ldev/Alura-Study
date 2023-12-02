@@ -13,8 +13,7 @@ body {
 }
 
 .apresentacao {
-    margin-top: 50px;
-    margin-left: 600px;
+    margin: 1% 10%;
     align-items: center;
     justify-content: space-between;
     box-sizing: border-box;
