@@ -6,14 +6,15 @@
 }
 
 body {
-    height: 90%;
-    width: 90%;
+    height: 100vh;
+    width: 100vw;
     background-color: black;
     color: #F6F6F6;
 }
 
 .apresentacao {
-    margin: 10%;
+    margin-top: 50px;
+    margin-left: 600px;
     align-items: center;
     justify-content: space-between;
     box-sizing: border-box;
