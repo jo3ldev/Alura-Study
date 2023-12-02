@@ -6,7 +6,7 @@ Projeto criado com base nos estudos da ONE em parceria com a Alura <br> <br>
 </p>
 
 <p align="center">
-  
+  <img alt="Demo" src="Demo.png">  
 </p>
 
 ## Tecnologias
