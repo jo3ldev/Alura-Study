@@ -51,6 +51,9 @@ body {
 }
 
 .links {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px solid #22D4FD;
     width: 378px;
     text-align: center;
@@ -61,6 +64,11 @@ body {
     text-decoration: none;
     color: #F6F6F6;
     font-family: 'Montserrat', sans-serif;
+}
+
+.links:hover {
+    background-color: #272727;
+    padding: 3.5%;
 }
 
 .destaque {
