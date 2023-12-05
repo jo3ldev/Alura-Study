@@ -12,7 +12,7 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 15%;
+    padding: 2% 0% 0% 35%;
 }
 
 .menu {
@@ -29,7 +29,7 @@ body {
 }
 
 .apresentacao {
-    padding: 6.8% 15%;
+    padding: 5% 35%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -95,8 +95,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 530px;
-    border-radius: 10px;
+    width: 50%;
+    border-radius: 500px;
 }
 
 .rodape {
