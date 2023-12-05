@@ -36,7 +36,7 @@ body {
 }
 
 .apresentacao-conteudo {
-    width: 615px;
+    width: 650px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -48,7 +48,7 @@ body {
 }
 
 .apresentacao-conteudo-texto {
-    font-size: 24px;
+    font-size: 22px;
     font-family: 'Montserrat', sans-serif;
 }
 
